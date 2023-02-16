@@ -18,7 +18,7 @@ const SocialMedia = () => {
         <BsInstagram />
       </div> */}
       <div>
-        <a href='www.linkedin.com/in/davidcarhart'>
+        <a href='https://www.linkedin.com/in/davidcarhart'>
           <FaLinkedin />
         </a>
 
