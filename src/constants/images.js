@@ -20,7 +20,8 @@ import vue from '../assets/vue.png';
 import react_native from '../assets/react_native.png';
 import nextjs from '../assets/nextjs-icon.png';
 import sanity from '../assets/sanity.png';
-import webdev from '../assets/webdev.jpeg'
+import webdev from '../assets/webdev.jpeg';
+import david from '../assets/Dave-Image-Portfolio.jpg';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -79,4 +80,5 @@ export default {
   nextjs,
   sanity,
   webdev,
+  david,
 };
